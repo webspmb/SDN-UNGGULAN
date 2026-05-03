@@ -1,7 +1,7 @@
 // Service to interact with Google Apps Script Backend
 
 // To use the real backend, replace this URL with your deployed Google Apps Script Web App URL
-const GAS_WEB_APP_URL = "Isi Link App Scrip anda di sini"; 
+const GAS_WEB_APP_URL = "https://script.google.com/macros/s/AKfycby-_MWTG1zhnbCtub58PntC6LxuxQPYsof4WyqEs84OHsWD8dB7zEokppqKfGAw8pGE/exec"; 
 
 export interface FormField {
   id: string;
